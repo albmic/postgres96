@@ -1,2 +1,1 @@
-# postgres96
-Centos7 - PGSQL 9.6
+root/usr/share/container-scripts/postgresql/README.md
